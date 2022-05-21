@@ -1,0 +1,13 @@
+Key,Argument,Value
+Epochs-900:Old dataset-False:Learning rate-1e-05:Train-False:,128.0,0.0647196498500135
+Epochs-900:Old dataset-False:Learning rate-1e-05:Train-False:,256.0,0.0544242825409664
+Epochs-900:Old dataset-False:Learning rate-1e-05:Train-False:,512.0,0.0596860414297734
+Epochs-1200:Old dataset-False:Learning rate-0.0001:Train-False:,128.0,0.0525699186597574
+Epochs-1200:Old dataset-False:Learning rate-0.0001:Train-False:,256.0,0.1130179056754165
+Epochs-1200:Old dataset-False:Learning rate-0.0001:Train-False:,512.0,0.0527238321752113
+Epochs-900:Old dataset-False:Learning rate-1e-05:Train-True:,128.0,0.0578940404108908
+Epochs-900:Old dataset-False:Learning rate-1e-05:Train-True:,256.0,0.0567605229337004
+Epochs-900:Old dataset-False:Learning rate-1e-05:Train-True:,512.0,0.0564143835558486
+Epochs-300:Old dataset-False:Learning rate-0.0001:Train-True:,128.0,0.0591441458026383
+Epochs-300:Old dataset-False:Learning rate-0.0001:Train-True:,256.0,0.0569837505033811
+Epochs-300:Old dataset-False:Learning rate-0.0001:Train-True:,512.0,0.0853985248139835

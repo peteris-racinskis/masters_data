@@ -1,0 +1,13 @@
+Key,Argument,Value
+Params-256:Old dataset-False:Time signal-True:Train-False:,100.0,0.198602650888213
+Params-256:Old dataset-False:Time signal-True:Train-False:,20.0,0.1870342137384429
+Params-256:Old dataset-False:Time signal-True:Train-False:,50.0,0.2109119111732724
+Params-512:Old dataset-False:Time signal-True:Train-False:,100.0,0.2299681375553452
+Params-512:Old dataset-False:Time signal-True:Train-False:,20.0,0.1833527992892456
+Params-512:Old dataset-False:Time signal-True:Train-False:,50.0,0.1507599640200179
+Params-256:Old dataset-False:Time signal-True:Train-True:,100.0,0.2014738799019389
+Params-256:Old dataset-False:Time signal-True:Train-True:,20.0,0.2207912080670511
+Params-256:Old dataset-False:Time signal-True:Train-True:,50.0,0.2384074538657839
+Params-512:Old dataset-False:Time signal-True:Train-True:,100.0,0.2543883899247631
+Params-512:Old dataset-False:Time signal-True:Train-True:,20.0,0.2022990634471579
+Params-512:Old dataset-False:Time signal-True:Train-True:,50.0,0.2132954990774475
