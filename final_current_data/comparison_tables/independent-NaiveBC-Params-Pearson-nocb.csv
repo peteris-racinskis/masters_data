@@ -1,0 +1,17 @@
+Key,Argument,Value
+Epochs-20:Old dataset-False:Time signal-True:Train-False:,1024.0,0.9793007211686208
+Epochs-20:Old dataset-False:Time signal-True:Train-False:,128.0,0.9783080318688312
+Epochs-20:Old dataset-False:Time signal-True:Train-False:,256.0,0.979535769679366
+Epochs-20:Old dataset-False:Time signal-True:Train-False:,512.0,0.9828964301521248
+Epochs-50:Old dataset-False:Time signal-True:Train-False:,1024.0,0.976564864486712
+Epochs-50:Old dataset-False:Time signal-True:Train-False:,128.0,0.9830201304316228
+Epochs-50:Old dataset-False:Time signal-True:Train-False:,256.0,0.9744374116603296
+Epochs-50:Old dataset-False:Time signal-True:Train-False:,512.0,0.9875229026155508
+Epochs-50:Old dataset-False:Time signal-False:Train-True:,1024.0,0.9785679860365128
+Epochs-50:Old dataset-False:Time signal-False:Train-True:,128.0,0.901452914467078
+Epochs-50:Old dataset-False:Time signal-False:Train-True:,256.0,0.952816683381014
+Epochs-50:Old dataset-False:Time signal-False:Train-True:,512.0,0.8000958211698924
+Epochs-50:Old dataset-False:Time signal-True:Train-True:,1024.0,0.9745568333570772
+Epochs-50:Old dataset-False:Time signal-True:Train-True:,128.0,0.9707816230315924
+Epochs-50:Old dataset-False:Time signal-True:Train-True:,256.0,0.9648872735050512
+Epochs-50:Old dataset-False:Time signal-True:Train-True:,512.0,0.9732186026337988

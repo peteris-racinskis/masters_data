@@ -1,0 +1,17 @@
+Key,Argument,Value
+Params-128:Old dataset-False:Learning rate-0.0001:Train-False:,1200.0,0.0525699186597574
+Params-128:Old dataset-False:Learning rate-0.0001:Train-False:,300.0,0.0747254465932197
+Params-128:Old dataset-False:Learning rate-0.0001:Train-False:,600.0,0.0592778985365298
+Params-128:Old dataset-False:Learning rate-0.0001:Train-False:,900.0,0.0758054653486805
+Params-512:Old dataset-False:Learning rate-0.0001:Train-False:,1200.0,0.0527238321752113
+Params-512:Old dataset-False:Learning rate-0.0001:Train-False:,300.0,0.1293144462333836
+Params-512:Old dataset-False:Learning rate-0.0001:Train-False:,600.0,0.0586930649047149
+Params-512:Old dataset-False:Learning rate-0.0001:Train-False:,900.0,0.116930153907083
+Params-256:Old dataset-False:Learning rate-1e-05:Train-True:,1200.0,0.0572476892601648
+Params-256:Old dataset-False:Learning rate-1e-05:Train-True:,300.0,
+Params-256:Old dataset-False:Learning rate-1e-05:Train-True:,600.0,
+Params-256:Old dataset-False:Learning rate-1e-05:Train-True:,900.0,0.0567605229337004
+Params-512:Old dataset-False:Learning rate-1e-05:Train-True:,1200.0,0.0588578905950139
+Params-512:Old dataset-False:Learning rate-1e-05:Train-True:,300.0,
+Params-512:Old dataset-False:Learning rate-1e-05:Train-True:,600.0,
+Params-512:Old dataset-False:Learning rate-1e-05:Train-True:,900.0,0.0564143835558486
